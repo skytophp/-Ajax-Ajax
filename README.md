@@ -6,7 +6,7 @@
 >how old are you?
 
 #看看代码
-```
+```html
 <!DOCTYPE html>
 <html>
 <head>
